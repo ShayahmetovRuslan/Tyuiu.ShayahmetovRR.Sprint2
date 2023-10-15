@@ -8,7 +8,7 @@ namespace Tyuiu.ShayahmetovRR.Sprint2.Task0.V9.Test
 	public class DataServiceTest
 	{
 		[TestMethod]
-		public async void ValidException()
+		public async void ValidGetLogicOperation()
 		{
 			DataService ds = new DataService();
 			int x = 1054;
