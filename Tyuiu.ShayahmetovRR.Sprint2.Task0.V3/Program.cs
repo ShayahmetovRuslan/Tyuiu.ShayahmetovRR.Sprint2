@@ -17,7 +17,7 @@ namespace Tyuiu.ShayahmetovRR.Sprint2.Task0.V3
 			Console.WriteLine("* Спринт #2                                                                  *");
 			Console.WriteLine("* Тема: Операции сравнения                                                   *");
 			Console.WriteLine("* Задание #0                                                                 *");
-			Console.WriteLine("* Вариант #9                                                                 *");
+			Console.WriteLine("* Вариант #3                                                                 *");
 			Console.WriteLine("* Выполнил: Шаяхметов Р.Р     | АСОиУб 23-1                                 *");
 			Console.WriteLine("******************************************************************************");
 			Console.WriteLine("* УСЛОВИЕ:                                                                   *");
