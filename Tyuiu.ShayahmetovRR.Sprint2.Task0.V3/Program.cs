@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tyuiu.ShayahmetovRR.Sprint2.Task0.V3.Lib;
 
-using Tyuiu.RedikultsevaAA.Sprint2.Task0.V9.Lib;
-
-namespace Tyuiu.RedikultsevaAA.Sprint2.Task0.V9
+namespace Tyuiu.ShayahmetovRR.Sprint2.Task0.V3
 {
-	class Program
+	internal class Program
 	{
 		static void Main(string[] args)
 		{
@@ -25,7 +24,7 @@ namespace Tyuiu.RedikultsevaAA.Sprint2.Task0.V9
 			Console.WriteLine("* // Написать программу из операций сравнений и арифметических выражений,    *");
 			Console.WriteLine("* (==, !=, <, >, <=, >=, последовательность операций не должна нарушаться),  *");
 			Console.WriteLine("* которая вернет логическую последовательность(массив):                      *");
-			Console.WriteLine("* (True, True, True, True, True, False), при x = 1054, y = 375               *");
+			Console.WriteLine("* (False, True, False, True, False, True), при x = 45, y = 127               *");
 			Console.WriteLine("******************************************************************************");
 			Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                           *");
 			Console.WriteLine("******************************************************************************");
